@@ -1,0 +1,16 @@
+.sidebar{
+    height: 100%;
+    width:100px;
+    background-color: rgb(226, 223, 223);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+.Biphone{
+    margin-left: 20px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: rgb(245, 240, 240);
+    margin-top: 42px;
+    margin-bottom: 0.5px;
+}

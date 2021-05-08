@@ -1,0 +1,39 @@
+
+.form{
+    background-color: rgb(188, 183, 255);
+    width: 50%;
+    height: 2.5rem;
+    margin-left: 5%;
+    border-radius: 40px;
+}
+
+.container1{
+
+    background-color:rgb(226, 223, 223);
+}
+.time{
+    color:rgb(61, 113, 192);
+    font-weight: 600;
+    margin-left:50px;
+}
+.nav-item1{
+    margin-right: 80px;
+}
+
+.searchFa{
+    size:2rem;
+}
+.sidebar{
+    height: 100%;
+    width:100px;
+    background-color: rgb(226, 223, 223);
+    box-sizing: border-box;
+}
+.Biphone{
+    margin-left: 20px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: rgb(245, 240, 240);
+    margin-top: 42px;
+    margin-bottom: 0.5px;
+}
